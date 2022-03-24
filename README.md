@@ -32,7 +32,6 @@ I have requested for Elevated Access in twitter developer portal to scrap 6k Use
 <img width="1501" alt="Screenshot 2022-0<img width="974" alt="Screenshot 2022-03-24 at 1 37 46 AM" src="https://user-
 # Result Top 10 Most frequent topic words
 
-<img width="974" alt="Screenshot 2022-03-24 at 1 37 46 AM" src="https://user-images.githubusercontent.com/94094997/159967484-6d97d957-0904-446e-9110-bb5b97370622.png">
 
 
 
