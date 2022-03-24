@@ -17,10 +17,14 @@ as CSV file.
 7)Requirements.text : all the frameworks , wordnet , header files used in this project information are
 available.
 
-#
+# Project structure
 
 In this project , there are 3 main files for 3 Takes : <details>
            <summary>Task 1-Data collection: lab3_twitter/scrap_twitter_sab.py</summary>
            <p>-Automating scraping twitter API V2 using tweepy Python Package</p>
+        <summary>Task 2- Data Storing: lab3_twitter/ MongoInsert_sab.py</summary>
+        <p> -6k tweet text_data of JSON data is stored in MongoDb.</p>
+        <summary>Task 3- Text Analysis : lab3_twitter/ TextAnalysis_EC.py</summary>
+        <p> -With Wordnet help identified bigrams, trigrams and polysemy from stopword removed tokens.</p>
          </details>
 
