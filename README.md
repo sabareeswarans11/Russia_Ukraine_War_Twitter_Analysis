@@ -29,7 +29,7 @@ I have requested for Elevated Access in twitter developer portal to scrap 6k Use
 # MongoDb Compass (GUI Support to Process and visualize the JSON semi-formatted twitter data)
 
 <img width="1460" alt="Screenshot 2022-03-23 at 11 41 26 PM" src="https://user-images.githubusercontent.com/94094997/159966684-263fa497-6f79-42ea-99c3-e6d5900e6ec3.png">
-<img width="1501" alt="Screenshot 2022-0<img width="974" alt="Screenshot 2022-03-24 at 1 37 46 AM" src="https://user-
+<img width="1460" alt="Screenshot 2022-0<img width="974" alt="Screenshot 2022-03-24 at 1 37 46 AM" src="https://user-
 # Result Top 10 Most frequent topic words
 
 
