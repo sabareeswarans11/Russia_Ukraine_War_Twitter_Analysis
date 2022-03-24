@@ -4,7 +4,7 @@ Collecting Social Media Data from Twitter Real-time Data Stream and Storing and 
 
 # Project Structure
 In this project , there are 3 main files for 3 Takes
-1)Task 1-Data collection: lab3_twitter/scrap_twitter_sab.py
+Markup : * Task 1-Data collection: lab3_twitter/scrap_twitter_sab.py
         -Automating scraping twitter API V2 using tweepy Python Package.
 2)Task 2- Data Storing: lab3_twitter/ MongoInsert_sab.py
         -6k tweet text_data of JSON data is stored in MongoDb.
