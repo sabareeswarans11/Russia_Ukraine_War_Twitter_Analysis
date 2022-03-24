@@ -19,8 +19,8 @@ available.
 
 #
 
-Markup : <details>
-           <summary>Title 1</summary>
-           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+In this project , there are 3 main files for 3 Takes : <details>
+           <summary>Task 1-Data collection: lab3_twitter/scrap_twitter_sab.py</summary>
+           <p>-Automating scraping twitter API V2 using tweepy Python Package</p>
          </details>
 
