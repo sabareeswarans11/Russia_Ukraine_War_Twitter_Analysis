@@ -18,8 +18,8 @@ as CSV file.
 available.
 
 # Project structure
-
-In this project , there are 3 main files for 3 Takes : <details>
+ <details>
+ <summary>In this project , there are 3 main files for 3 Takes :</summary>
            <summary>Task 1-Data collection: lab3_twitter/scrap_twitter_sab.py</summary>
            <p>-Automating scraping twitter API V2 using tweepy Python Package</p>
         <summary>Task 2- Data Storing: lab3_twitter/ MongoInsert_sab.py</summary>
