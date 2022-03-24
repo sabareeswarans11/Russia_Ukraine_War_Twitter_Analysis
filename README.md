@@ -31,10 +31,16 @@ I have requested for Elevated Access in twitter developer portal to scrap 6k Use
 <img width="1460" alt="Screenshot 2022-03-23 at 11 41 26 PM" src="https://user-images.githubusercontent.com/94094997/159966684-263fa497-6f79-42ea-99c3-e6d5900e6ec3.png">
 <img width="1501" alt="Screenshot 2022-03-23 at 11 47 46 PM" src="https://user-images.githubusercontent.com/94094997/159967848-1431bc35-e72a-4a9c-91b4-613256cc2e0f.png">
 
-
-
 # Result Top 10 Most frequent topic words
+<img width="974" alt="Screenshot 2022-03-24 at 1 37 46 AM" src="https://user-images.githubusercontent.com/94094997/159967917-0f709b2a-2bfc-4bce-aa82-5fc8d133c535.png">
 
+# Result: Bi-gram Detection
+<img width="1224" alt="Screenshot 2022-03-24 at 1 37 04 AM" src="https://user-images.githubusercontent.com/94094997/159968074-f9c6e76e-1075-4cb2-852b-117b7f1df46f.png">
+
+
+# Result: Tri-gram Detection
+
+<img width="974" alt="Screenshot 2022-03-24 at 1 37 46 AM" src="https://user-images.githubusercontent.com/94094997/159968165-2b3390f7-f62b-4ed8-869c-2471746e6e3f.png">
 
 
 
