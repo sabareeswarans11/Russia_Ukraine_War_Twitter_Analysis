@@ -21,6 +21,7 @@ available.</summary>
 
 # My Twitter Developer Portal with API v1 and v2 support.
 
-<img width="452" alt="image" src="https://user-images.githubusercontent.com/94094997/159966144-fd17089e-e4a3-4984-a772-87cfbb0cf13d.png">
+<img width="1914" alt="Screenshot 2022-03-23 at 11 22 15 PM" src="https://user-images.githubusercontent.com/94094997/159966469-2e0b5d46-acd1-4411-b04c-6f891613f44e.png">
+
 
 I have requested for Elevated Access in twitter developer portal to scrap 6k User tweet based on topic : Russia_Ukraine_War 
