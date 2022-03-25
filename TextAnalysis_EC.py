@@ -1,6 +1,5 @@
 """
 coding:utf-8
-SPRING 2022 -CIS 493/593 – BIG DATA LAB ASSIGNMENT - 3
 Author: Sabareeswaran Shanmugam
 steps:
 1)Basic cleaning: emoji , Hashtag removal
