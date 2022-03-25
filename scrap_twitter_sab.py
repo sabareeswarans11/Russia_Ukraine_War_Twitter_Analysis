@@ -1,6 +1,5 @@
 """
 coding:utf-8
-SPRING 2022 -CIS 493/593 – BIG DATA LAB ASSIGNMENT - 3
 Semi-Structured Data Processing with NoSQL Database Server MongoDB
 Collecting Social Media Data from Twitter Real-time Data Stream and
 Storing and Retrieving to Process from a Semi-Structured Database Server MongoDB
