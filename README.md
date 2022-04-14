@@ -45,6 +45,11 @@ I have requested for Elevated Access in twitter developer portal to scrap 6k Use
 # Polysemy Detection
 <img width="2566" alt="Screenshot 2022-03-24 at 1 40 22 AM" src="https://user-images.githubusercontent.com/94094997/159968306-30003452-db16-4200-b132-f10d810a7096.png">
 
+# Sentimental Analysis
+
+## Bargraph Analyis 
+
+(https://user-images.githubusercontent.com/94094997/163324960-eea2c449-8822-4cb5-846b-60323e35a91b.png)
 
 
 
