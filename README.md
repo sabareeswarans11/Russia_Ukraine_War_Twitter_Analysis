@@ -11,6 +11,7 @@ Collecting Social Media Data from Twitter Real-time Data Stream and Storing and 
   <p> -6k tweet text_data of JSON data is stored in MongoDb.</p>
   <summary>Task 3- Text Analysis : lab3_twitter/ TextAnalysis_EC.py</summary>
   <p> -With Wordnet help identified bigrams, trigrams and polysemy from stopword removed tokens.</p>
+ <summary>Task 4- Sentimental Analysis Added: lab3_twitter/ TextAnalysis_EC.py</summary>
   <summary>Twitter data directory: Scraped data is stored as json and only the full Tweet Text is converted as CSV.</summary>
   <summary>Result directory:all the bigram.csv,Top10Words.csv, trigram.csv, and polysemy detection are stored
 as CSV file.</summary>
