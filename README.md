@@ -47,10 +47,15 @@ I have requested for Elevated Access in twitter developer portal to scrap 6k Use
 
 # Sentimental Analysis
 
-## Bargraph Analyis 
+## Bargraph Analysis
 
 ![Bargraph_Sentiment_Analysis](https://user-images.githubusercontent.com/94094997/163325046-75b659a4-a7a6-458f-8d5f-dce96ebaffc0.png)
 
+## PieChart Analysis
 
+![Piechart_Sentiment_Analysis](https://user-images.githubusercontent.com/94094997/163325163-eb72e3be-216f-4e68-baf1-9f4a50fff71d.png)
 
+## Positive WordCloud
+
+![Positive_wordcloud](https://user-images.githubusercontent.com/94094997/163325373-c6d91ad6-c954-4c89-a8dc-c8a78db68bf5.png)
 
