@@ -49,7 +49,8 @@ I have requested for Elevated Access in twitter developer portal to scrap 6k Use
 
 ## Bargraph Analyis 
 
-(https://user-images.githubusercontent.com/94094997/163324960-eea2c449-8822-4cb5-846b-60323e35a91b.png)
+![Bargraph_Sentiment_Analysis](https://user-images.githubusercontent.com/94094997/163325046-75b659a4-a7a6-458f-8d5f-dce96ebaffc0.png)
+
 
 
 
