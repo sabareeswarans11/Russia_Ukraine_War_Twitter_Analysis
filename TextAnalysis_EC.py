@@ -1,12 +1,12 @@
 """
 coding:utf-8
-SPRING 2022 -CIS 493/593 – BIG DATA LAB ASSIGNMENT - 3
 Author: Sabareeswaran Shanmugam
 steps:
 1)Basic cleaning: emoji , Hashtag removal
 2)stop word removal
 3) Top 10 words after Stopword removal
-4) Extra -credit part - detected bigrams,trigrams and polysemy in tokens
+4) detected bigrams,trigrams and polysemy in tokens
+5) Sentimental Analysis 
 """
 import string
 
